@@ -12,4 +12,4 @@
 [[headers]]
   for ="/*"
   [headers.values]
-    Cache-Control = "public, max-age=30, s-maxage=30"
+    Cache-Control = "public, max-age=60, s-maxage=30"
